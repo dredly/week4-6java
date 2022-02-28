@@ -1,0 +1,4 @@
+Classic Bubble Sort: 234965919200 ns
+Halved Consecutive:  113736030400 ns
+Halved parallel:      61693923100 ns
+Halved parallel then combined (try during lab session): 
